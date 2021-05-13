@@ -1,2 +1,2 @@
 # Resume
-My resume. Is hosted on none(now)
+My resume. Is hosted on https://none (only now)
